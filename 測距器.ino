@@ -1,3 +1,5 @@
+//使用超音波模組量測距離並且顯示在LCD模組上
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
