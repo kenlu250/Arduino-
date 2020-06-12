@@ -1,3 +1,6 @@
+//利用GOOGLE語音系統辨識聲音，並控制LED燈開關
+//時間:2020/4/24
+
 #include <SoftwareSerial.h>
 SoftwareSerial BLU(0,1);
 String voice;
