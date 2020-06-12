@@ -1,4 +1,5 @@
 //使用超音波模組量測距離並且顯示在LCD模組上
+//時間:2020/3/6~2020/3/13
 
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
