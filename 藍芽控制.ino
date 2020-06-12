@@ -1,4 +1,4 @@
-//利用藍芽工控制LED的開關
+//利用藍芽控制LED的開關
 //時間:2020/4/24
 
 #include <SoftwareSerial.h>
