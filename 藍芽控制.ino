@@ -1,4 +1,5 @@
 //利用藍芽工控制LED的開關
+//時間:2020/4/24
 
 #include <SoftwareSerial.h>
 SoftwareSerial BLU(0,1);
