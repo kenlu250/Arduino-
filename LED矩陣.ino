@@ -1,5 +1,6 @@
 //將8*8LED矩陣模組重複隨機亮一個點
 //時間:2020/6/12
+//影片連結:https://youtu.be/IL2EMq_QCm0
 
 #include "LedControl.h"
 // Pin 12:Data in, Pin 11: Clock,  Pin 10: CS(Load)
