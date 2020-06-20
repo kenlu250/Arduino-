@@ -1,3 +1,6 @@
+//使用超音波感測器偵測距離，並顯示在LCD上
+//時間:2020/3/13
+
 const int led=13;  //LED 連接至數位接腳13。
 const int echo=8; 
 const int trig=9;  
