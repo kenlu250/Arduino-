@@ -1,3 +1,6 @@
+//使用蜂鳴器頻率高低演奏小蜜蜂
+//時間:2020/3/20
+
 const int speaker=2;
 char toneName[]="CDEFGAB";
 unsigned int frequency[7]={523,587,659,694,784,880,988};
