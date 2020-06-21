@@ -1,5 +1,5 @@
 //使用模組偵測空氣中pm2.5含量並顯示在LCD上
-//時間:
+//時間:2020/6/20
 
 #include <math.h>
 #include <LiquidCrystal_I2C.h>
